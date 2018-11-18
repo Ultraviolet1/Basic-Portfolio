@@ -1,3 +1,6 @@
+/***I spent a ridiculous amount of time on this assignment over the course of 2 weeks
+I searched for help on almost every aspect and copied a lot from online sources and in class***/
+
 .navbar {
     margin-left: 473px;
     padding-top: 30px;
@@ -27,6 +30,7 @@ h1 {
     font-weight: bold;
     font-size: 24px;
     color: #ffffff;
+    background-color:#4aaaa5;
 }
 
 h2{font-family: "Georgia", Times, "Times New Roman", serif;
@@ -48,11 +52,6 @@ header {
     padding-right: 28px;
     float: left;	
  }
-h1{
-color:#ffffff;
-font-family:'Georgia', Times, Times New Roman, serif;
-}
-
 
 p{
     font-family: 'Helvetica Neue'; 
@@ -63,7 +62,7 @@ p{
     
 }
 
-#container{}
+
 #main {
     background-color: #ffffff;
     width: 700px;
@@ -144,3 +143,14 @@ p{
         font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
         font-size: 14px;
      }
+
+     /***PORTFOLIO***/
+
+     #image{width:250px;
+            height:250px;
+        }
+        
+    #container{background-color:#ffffff}
+
+    /****need to figure out measurements and adding photosizes...
+    contact page padding/margins... overlay tabs on pictures...***/
